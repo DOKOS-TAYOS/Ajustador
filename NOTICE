@@ -1,0 +1,43 @@
+Ajustador
+Copyright 2024 Alejandro Mata Ali
+
+Software license
+----------------
+This software and associated documentation files are licensed under the
+Apache License, Version 2.0. See the LICENSE file in this repository.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Third-party software
+--------------------
+This project depends on third-party Python packages that are distributed under
+their own licenses. Those packages are not copied into this repository; they
+are installed separately and remain under their own upstream terms. Consult
+the installed package metadata or upstream repositories for the authoritative
+license text.
+
+  NumPy
+    License: BSD 3-Clause
+    Homepage: https://numpy.org/
+    Source: https://github.com/numpy/numpy
+
+  SciPy
+    License: BSD 3-Clause
+    Homepage: https://scipy.org/
+    Source: https://github.com/scipy/scipy
+
+  Matplotlib
+    License: Matplotlib License (based on PSF / BSD-compatible terms)
+    Homepage: https://matplotlib.org/
+    Source: https://github.com/matplotlib/matplotlib
+
+  pandas
+    License: BSD 3-Clause
+    Homepage: https://pandas.pydata.org/
+    Source: https://github.com/pandas-dev/pandas
+
+Disclaimer
+----------
+This NOTICE is for attribution and convenience only. It does not modify the
+Apache License 2.0 of this project or the licenses of the listed dependencies.

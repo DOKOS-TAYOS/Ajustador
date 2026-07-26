@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 __author__ = "Alejandro Mata Ali (DOKOS TAYOS)"
-__copyright__ = "Public content for science use"
+__copyright__ = "Copyright 2024 Alejandro Mata Ali (Apache License 2.0)"
 __credits__ = ["Alejandro Mata Ali"]
 __version__ = "0.0.1"
 __maintainer__ = "Alejandro Mata Ali (DOKOS TAYOS)"
